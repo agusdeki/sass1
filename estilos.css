@@ -1,0 +1,45 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  color: darkmagenta;
+  text-align: center;
+  text-decoration: overline;
+}
+
+h1 span {
+  color: black;
+  font-size: monospace;
+}
+
+header {
+  height: 200%;
+  width: 100%;
+  background-color: crimson;
+}
+
+.clase2 {
+  color: brown;
+  text-align: justify;
+  font-size: 140px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: monospace;
+}
+
+.clase2 span {
+  color: black;
+  font-size: 50px;
+  font-family: verdana;
+  padding: 5%;
+}
+
+.clase1 {
+  color: orange;
+  text-align: center;
+  font-size: 150px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=estilos.css.map */
